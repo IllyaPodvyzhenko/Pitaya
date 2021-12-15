@@ -1,0 +1,5 @@
+body{background: rgba(0, 204, 255, 0.979);}
+.two{width:180px; background: rgba(255, 0, 255, 0.979); text-align: center; margin-top: 50px; }
+.one{width: 10px; height: 10px;background: rgba(0, 255, 64, 0.979); text-align: center;margin-top: 50px; }
+button{width: 240px;height: 120px; background: rgb(0, 255, 179);}
+
